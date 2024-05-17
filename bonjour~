@@ -1,2 +1,6 @@
-bonjour de B
+<<<<<<< HEAD
+bonjour de D
+=======
+bonjour de C
+>>>>>>> e48f590d794860f17daf88b1deb806aaf174640b
 bonjour de A
